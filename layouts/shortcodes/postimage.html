@@ -1,0 +1,22 @@
+{{ $image := $.Page.Resources.GetMatch (.Get 0)}}
+{{ $smallImage := $image.Process "fit 720x720 webp q50" }}
+
+<figure class="post-figure">
+  <a href="{{ $image.RelPermalink }}">
+    {{ with $smallImage }}
+    <img src="{{ .RelPermalink }}"
+         width="{{ .Width }}" height="{{ .Height }}"
+         alt="{{ $.Get 2 }}" />
+    {{ end }}
+  </a>
+  <figcaption>{{ .Get 1 }}</figcaption>
+  <div class="image_meta">
+    {{ with $image.Exif }} 
+      {{ with .Tags.Model }}Camera: {{ . }},{{ end }}
+      {{ with .Tags.LensModel }}Lens: {{ . }},{{ end }}
+      {{ with .Tags.ExposureTime }}Exposure Time: {{ . }} sec,{{ end }}
+      {{ with .Tags.FNumber }}f {{ . }}{{ end }}
+      {{ with .Tags.ISOSpeedRatings }}, Film ISO: {{ . }}{{ end }}
+    </div>
+  {{ end }}
+  </figure>

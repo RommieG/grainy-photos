@@ -1,0 +1,60 @@
+baseURL: "https://www.tapasinthesun.com/demo/"
+languageCode: en-gb
+title: Grainy Photos
+description: "A photo blog about photography (mostly B&W film) featuring photos of places in Spain."
+theme: PaperMod
+paginate: 5
+enableRobotsTXT: true
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  DateFormat: "2 January, 2024"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true
+  # hideSummary: false
+
+  homeInfoParams:
+    Title: Film photography.
+    Content: A photo blog about photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras. Let's go and explore...
+  socialIcons: 
+    - name: "mastodon"
+      url: "<link>"
+    - name: "flickr"
+      url: "<link2>"
+    - name: "smugmug"
+      url: "<link3>" 
+    - name: "rss"
+      url: "/index.xml" 
+
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
+    # bing:
+      # SiteVerificationTag: "XYZabc"
+    # yandex:
+      # SiteVerificationTag: "XYZabc"
