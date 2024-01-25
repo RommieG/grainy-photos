@@ -43,11 +43,11 @@ params:
     Content: A photo blog about photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras. Let's go and explore...
   socialIcons: 
     - name: "mastodon"
-      url: "<https://photog.social/@tapasinthesun>"
+      url: "https://photog.social/@tapasinthesun"
     - name: "flickr"
-      url: "<https://www.flickr.com/photos/tapasinthesun/>"
+      url: "https://www.flickr.com/photos/tapasinthesun/"
     - name: "smugmug"
-      url: "<https://www.photos.tapasinthesun.com>" 
+      url: "https://www.photos.tapasinthesun.com" 
     - name: "rss"
       url: "/index.xml" 
 
