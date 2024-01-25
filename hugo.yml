@@ -1,4 +1,4 @@
-baseURL: "https://grainyphotos.netlify.app"
+baseURL: "https://grainyphotos.com"
 languageCode: en-gb
 title: Grainy Photos
 description: "A photo blog about photography (mostly B&W film) featuring photos of places in Spain."
@@ -43,11 +43,11 @@ params:
     Content: A photo blog about photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras. Let's go and explore...
   socialIcons: 
     - name: "mastodon"
-      url: "<link>"
+      url: "<https://photog.social/@tapasinthesun>"
     - name: "flickr"
-      url: "<link2>"
+      url: "<https://www.flickr.com/photos/tapasinthesun/>"
     - name: "smugmug"
-      url: "<link3>" 
+      url: "<https://www.photos.tapasinthesun.com>" 
     - name: "rss"
       url: "/index.xml" 
 
