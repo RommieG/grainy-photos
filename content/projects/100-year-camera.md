@@ -1,6 +1,6 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: {{ .Date }}
+title: '100 Year Camera'
+date: 2024-01-27T15:02:15+01:00
 canonicalURL: ""
 author: Rom Gostomski
 draft: true
@@ -18,20 +18,8 @@ tocopen: true
 tags: []
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: []
-# "Places in Spain" "Culture" "Walks" "Architecture"
 
 ShowPostNavLinks: true
 ---
+This is the projects Archetype
 
-
-{{< postimage "images/nerja-1.jpg" 
-"Caption" 
-"AltText" >}}
-
-
-## Black and White film photos
-
-I took all the photos on this page using a xxxx camera with yyy film. Developer: xxx, 1+xx, for xx minutes @20C.
-
-Click on any photo to see a larger version.

@@ -1,4 +1,4 @@
-baseURL: "https://grainyphotos.com"
+baseURL: https://grainyphotos.com
 languageCode: en-gb
 title: Grainy Photos
 description: "A photo blog about photography (mostly B&W film) featuring photos of places in Spain."
@@ -13,18 +13,18 @@ minify:
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: gear
+      name: Gear
+      url: /gear/
+      weight: 50
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 60
 
 
 params:
@@ -33,22 +33,26 @@ params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
-  DateFormat: "2 January, 2024"
+  DateFormat: 2 January 2006
   defaultTheme: auto # dark, light
-  disableThemeToggle: true
+  disableThemeToggle: false
   # hideSummary: false
+  description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.
+  author: Rom Gostomski
 
   homeInfoParams:
-    Title: Film photography.
-    Content: A photo blog about photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras. Let's go and explore...
+    Title: Film photography
+    Content: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
   socialIcons: 
-    - name: "mastodon"
-      url: "https://photog.social/@tapasinthesun"
-    - name: "flickr"
-      url: "https://www.flickr.com/photos/tapasinthesun/"
-    - name: "smugmug"
-      url: "https://www.photos.tapasinthesun.com" 
-    - name: "rss"
+    - name: mastodon
+      url: https://photog.social/@tapasinthesun
+    - name: flickr
+      url: https://www.flickr.com/photos/tapasinthesun/
+    - name: tapasinthesun
+      url: https://www.tapasinthesun.com
+    - name: smugmug
+      url: https://www.photos.tapasinthesun.com
+    - name: rss
       url: "/index.xml" 
 
   # analytics:

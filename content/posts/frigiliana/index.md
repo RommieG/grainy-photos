@@ -2,6 +2,7 @@
 title: 'Frigiliana'
 date: 2024-01-22T14:09:30+01:00
 canonicalURL: ""
+summary: 'Google description is called summary.'
 draft: false
 
 
@@ -9,7 +10,6 @@ cover:
     image: images/frigiliana-cover.jpg
     alt: 'A black-and-white film photo of a street in Frigiliana.'
     caption: ''
-description: 'Google description.'
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
 ShowToc: false

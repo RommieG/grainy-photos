@@ -2,13 +2,13 @@
 title: 'Harman Phoenix 200 colour film – first impressions'
 date: 2024-01-21T21:27:48+01:00
 canonicalURL: ""
+summary: 'Harman Phoenix 200 is a brand-new ISO 200. See the photos from my first roll and my thoughts about what works and what does not.'
 draft: false
 
 cover:
     image: images/phoenix200-cover.jpg
     alt: 'A film photo of of autumn leaves and fruits on a tree.'
     caption: ''
-description: 'Google description.'
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
 ShowToc: true
