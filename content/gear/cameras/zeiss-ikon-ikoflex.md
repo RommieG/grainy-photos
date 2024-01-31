@@ -7,7 +7,7 @@ summary: The Zeiss Ikon Ikoflex IIa 855/16 is a simple twin-lens reflex (TLR) ca
 draft: false
 
 cover:
-    image: gear/cameras/images/ikoflex/zeis-ikon-ikoflex-cover.jpg
+    image: images/ikoflex/zeis-ikon-ikoflex-cover.jpg
     alt: 'Zeiss Ikon Ikoflex IIa 855/16 film camera'
 # ShowBreadCrumbs: true
 # Show ReadingTime: true

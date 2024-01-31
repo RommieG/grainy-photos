@@ -1,5 +1,5 @@
 {{ $image := resources.Get (.Get 0) }}
-{{ $smallImage := $image.Resize "720x webp q90" }}
+{{ $smallImage := $image.Fit "720x720 webp q90" }}
 
 
 
