@@ -1,0 +1,16 @@
+{{ $image := resources.Get (.Get 0) }}
+{{ $smallImage := $image.Resize "720x webp q90" }}
+
+
+
+
+<figure>
+    <a href="{{ $image.RelPermalink }}">
+    {{ with $smallImage }}
+        <img src="{{ $smallImage.RelPermalink }}"
+        width="{{ .Width }}" height="{{ .Height }}"
+        alt="{{ $.Get 2 }}" />
+    {{ end }}
+</a>
+<figcaption>{{ .Get 1 }}</figcaption>
+</figure>

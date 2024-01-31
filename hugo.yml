@@ -41,8 +41,8 @@ params:
   author: Rom Gostomski
 
   homeInfoParams:
-    Title: Film photography
-    Content: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
+    Title: 
+    Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
   socialIcons: 
     - name: mastodon
       url: https://photog.social/@tapasinthesun

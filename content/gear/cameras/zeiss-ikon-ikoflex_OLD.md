@@ -1,5 +1,5 @@
 ---
-title: "Zeiss Ikon Ikoflex IIa 855/16"
+title: "Zeiss Ikon Ikoflex IIa 855/16 OLD"
 date: 2024-01-27T13:10:31+01:00
 canonicalURL: ""
 author: Rom Gostomski
@@ -26,9 +26,7 @@ This article is not a review of the camera; instead, it surmises my first impres
 
 The Ikoflex uses 120 film and takes pictures in the 6×6 format. You get 12 shots per roll of 120 film.
 
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-05.jpg"
-"The Zeiss Ikon Ikoflex IIa 855/16" 
-"The Zeiss Ikon Ikoflex IIa 855/16 with yellow filter and lens hood in front">}}
+![Image alt](/gear/cameras/images/ikoflex/zeis-ikon-ikoflex-5.jpg)
 
 By definition, a TLR camera has two lenses. A viewing lens (the upper lens) and the taking lens (the lower lens). As the name suggests, you view, compose and focus through the viewing lens. The focus is coupled between the viewing and taking lenses. When you press the shutter release, the camera takes the photograph through the taking lens.
 
@@ -38,9 +36,7 @@ The shutter is a Synchro-Compur XM leaf shutter, with speeds ranging from 1 sec 
 
 The IIa model displays the aperture and shutter values ​​in two windows on either side of the taking lens. The windows are clearly visible when operating the camera and looking from above—a significant improvement in the ergonomics over the previous models.
 
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-03.jpg"
-"The aperture and shutter values ​​are displayed in two windows (aperture on the right and shutter speed on the left – as viewed)" 
-"Looking down on the camera - showing the aperture and shutter values in small windows either side of the taking lens.">}}
+![Image alt](/gear/cameras/images/ikoflex/zeis-ikon-ikoflex-3.jpg)
 
 
 The camera weighs 1.2Kg, although it doesn’t feel heavy. Possibly due to its comparatively compact size. The weight is probably a reflection of the build quality. It certainly feels solid; no flimsy bits which feel as if they might break.
@@ -53,9 +49,7 @@ I would certainly describe the Ikoflex as a quirky camera. On the one hand, it i
 
 The sequence to load film is more complicated than in any camera I have ever used. I am still working on perfecting the technique, but so far, the following sequence works for me:
 
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-06.jpg"
-"Inside the Ikoflex IIa, the take-up spool is at the top" 
-"Photo of the back of the camera with the back open.">}}
+![Image alt](/gear/cameras/images/ikoflex/zeis-ikon-ikoflex-6.jpg#center)
 
 1. Insert the unexposed spool of film at the bottom of the camera and engage the leader in the top spool.
 1. Wind the film forward a little to ensure that the leader is securely engaged and correctly seated. Close the camera back.
@@ -64,9 +58,7 @@ The sequence to load film is more complicated than in any camera I have ever use
 1. The counter is advanced automatically as you wind the film forward after each shot. You can only advance the film forward one frame at a time.
 1. After taking the twelfth shot, you keep turning the knob until the film is fully wound onto the take-up spool.
 
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-02.jpg"
-"The red glass film viewing window on the underside of the camera" 
-"The underside of the camera with the red glass film viewing window next to the tripod socket.">}}
+![Image alt](/gear/cameras/images/ikoflex/zeis-ikon-ikoflex-2.jpg)
 
 Winding the film on does not cock the shutter. There is a separate lever under the lens which cocks the shutter.
 
@@ -80,9 +72,7 @@ The focusing screen is reasonably bright, and there is a flip-up magnifying glas
 
 The focus knob is not the smoothest and is a little stiff. A quarter of a turn takes you from 1m to infinity. This can be an advantage or disadvantage, depending on your point of view.
 
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-01.jpg"
-"The Ikoflex IIa focusing knob and depth of field scale" 
-"The left hand side of the Ikoflex IIa showing the focusing knob and depth of field scale">}}
+![Image alt](/gear/cameras/images/ikoflex/zeis-ikon-ikoflex-1.jpg)
 
 To summarise, the preview and focusing are adequate but not outstanding.
 
@@ -105,10 +95,6 @@ Regarding lens quality, the technician made the following comments:
 The lens is a fully-fledged Zeiss. It has that balance of sharpness and contrast that results in a magical range of tonality which holds up exceptionally well in highlights while retaining detail in the shadows.
 
 However, the technician advised caution regarding the lens anti-reflection coatings. Use a lens hood; otherwise, the images can acquire a soft effect which can be pleasant in portraits and dreamy landscapes, but not in general photography.
-
-{{< assetimage "/images/ikoflex/zeiss-ikon-ikoflex-04.jpg"
-"Yellow filter and lens hood" 
-"Yellow filter and lens hood in front of the Zeiss Ikon Ikoflex">}}
 
 The Zeiss Opton Tessar lens excels at medium distances where it has good punch, no vignetting and lacks distortion. Just like a good Zeiss.
 
