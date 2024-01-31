@@ -8,7 +8,7 @@
     <a href="{{ $image.RelPermalink }}">
     {{ with $smallImage }}
         <img src="{{ $smallImage.RelPermalink }}"
-        width="{{ .Width }}" height="{{ .Height }}"
+        width="{{ .Width }}" height="auto"
         alt="{{ $.Get 2 }}" />
     {{ end }}
 </a>
