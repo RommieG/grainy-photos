@@ -4,12 +4,12 @@
 <figure class="post-figure">
   <a href="{{ $image.RelPermalink }}">
     {{ with $smallImage }}
-    <img src="{{ .RelPermalink }}"
-         width="{{ .Width }}" height="{{ .Height }}"
-         alt="{{ $.Get 2 }}" />
+    <div id="imgcenter"><img src="{{ .RelPermalink }}"
+         width="{{ .Width }}" height="auto"
+         alt="{{ $.Get 2 }}" /></div>
     {{ end }}
   </a>
-  <figcaption>{{ .Get 1 }}</figcaption>
+  <figcaption class="center">{{ .Get 1 }}</figcaption>
   <div class="image_meta">
     {{ with $image.Exif }} 
       {{ with .Tags.Model }}Camera: {{ . }},{{ end }}

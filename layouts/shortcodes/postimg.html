@@ -1,0 +1,12 @@
+{{ $image := $.Page.Resources.GetMatch (.Get 0)}}
+{{ $smallImage := $image.Process "fit 720x720 webp q50" }}
+
+<figure class="post-figure">
+  <a href="{{ $image.RelPermalink }}">
+    {{ with $smallImage }}
+    <div id="imgcenter"><img src="{{ .RelPermalink }}"
+         width="{{ .Width }}" height="auto"
+         alt="{{ $.Get 2 }}" /></div>
+    {{ end }}
+  </a>
+  <figcaption class="center">{{ .Get 1 }}</figcaption>

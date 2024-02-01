@@ -7,10 +7,10 @@
 <figure>
     <a href="{{ $image.RelPermalink }}">
     {{ with $smallImage }}
-        <img src="{{ $smallImage.RelPermalink }}"
+    <div id="imgcenter"><img src="{{ $smallImage.RelPermalink }}"
         width="{{ .Width }}" height="auto"
-        alt="{{ $.Get 2 }}" />
+        alt="{{ $.Get 2 }}" /></div>
     {{ end }}
 </a>
-<figcaption>{{ .Get 1 }}</figcaption>
+<figcaption class="center">{{ .Get 1 }}</figcaption>
 </figure>

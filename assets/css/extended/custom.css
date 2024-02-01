@@ -1,4 +1,19 @@
+/* formats photo exif data */
 .image_meta {
     font-size: small;
     font-style: italic;
+    text-align: center;
+    margin: -10px 0 30px;
 }
+/* aligns photo captions to center */
+.figure {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+/* aligns all images to center */
+div #imgcenter {
+    display: flex;
+    justify-content: center;
+    }

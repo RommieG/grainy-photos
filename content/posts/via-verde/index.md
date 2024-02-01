@@ -33,43 +33,43 @@ All the following photos were taken that day using a Mamiya RB67 camera with Por
 
 ***Click on any photo to see a larger version.***
 
-{{< postimage "images/via-verde-1.jpg" 
+{{< postimgexif "images/via-verde-1.jpg" 
 "A cortijo amongst the olive groves." 
 "A colour film photo of a white cortijo amongst olive groves, with mountains in the background." >}}
 
-{{< postimage "images/via-verde-2.jpg" 
+{{< postimgexif "images/via-verde-2.jpg" 
 "The same photo as the previous, but taken with a wider lens." 
 "A colour film photo of a white cortijo amongst olive groves, with mountains in the background." >}}
 
-{{< postimage "images/via-verde-3.jpg" 
+{{< postimgexif "images/via-verde-3.jpg" 
 "The Via Verde footpath." 
 "A colour film photo of the Via Verde through the olive groves with a bench under a tree in the foreground." >}}
 
-{{< postimage "images/via-verde-4.jpg" 
+{{< postimgexif "images/via-verde-4.jpg" 
 "Looking along the Via Verde footpath." 
 "A colour film photo looking straight along the Via Verde through the olive groves. There is a bench under a tree in the foreground on the left-hand side." >}}
 
-{{< postimage "images/via-verde-5.jpg" 
+{{< postimgexif "images/via-verde-5.jpg" 
 "An old Roman bridge - just a short distance from the Via Verde." 
 "A colour film photo of a stone arched bridge dating back to Roman times, across the Viboras river." >}}
 
-{{< postimage "images/via-verde-6.jpg" 
+{{< postimgexif "images/via-verde-6.jpg" 
 "The old Roman bridge is dwarfed by the Via Verde viaduct." 
 "A colour film photo of a stone arched bridge Roman bridge with a huge viaduct carrying the Via Verde in the background." >}}
 
-{{< postimage "images/via-verde-7.jpg" 
+{{< postimgexif "images/via-verde-7.jpg" 
 "The old Roman bridge." 
 "A colour film photo of a stone arched bridge dating back to Roman times, across the Viboras river." >}}
 
-{{< postimage "images/via-verde-8.jpg" 
+{{< postimgexif "images/via-verde-8.jpg" 
 "The power line through the olive groves." 
 "A colour film photo of a rendered tower-like structure with power lines running to an electrical power pylon. This is amongst the olive groves with a mountain in the distance." >}}
 
-{{< postimage "images/via-verde-9.jpg" 
+{{< postimgexif "images/via-verde-9.jpg" 
 "An abandoned cortijo in the olive groves." 
 "A colour film photo of olive groves on a hilly landscape. There is an abandoned cortijo (farmhouse) in the mid-ground." >}}
 
-{{< postimage "images/via-verde-10.jpg" 
+{{< postimgexif "images/via-verde-10.jpg" 
 "An abandoned building by the Via Verde. I think this may have been an electric substation." 
 "A colour film photo of an abandoned building by the Via Verde. The building is in two parts, a lower stone built hut and a taller tower-like rendered structure." >}}
 
